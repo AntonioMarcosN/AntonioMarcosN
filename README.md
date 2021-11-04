@@ -1,4 +1,9 @@
-### Hi there 👋
+README.md
+👋 Olá, sou @ AntonioMarcosN
+👀 Estou interessado em aprender javascript e desenvolvimento em geral...
+🌱 Atualmente estou aprendendo desenvolvimento back end...
+💞️ Estou procurando colaborar em projetos web...
+📫 Como chegar até mim ..
 
 <!--
 **AntonioMarcosN/AntonioMarcosN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
